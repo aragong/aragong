@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Germán Aragón  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/germanaragon/)
 
 
-"I work as `Senior Consultant` and `AI Team Coordinator` at the Environmental Hydraulics Institute of Cantabria ([IHCantabria](www.ihcantabria.com)), where I lead applied research and development projects that combine coastal and estuarine engineering with data-driven technologies. My work focuses on numerical modelling, operational oceanographic systems, oil spill forecasting, and the deveolpment of scientific programs and tools to support sustainable and resilient marine and coastal environments."
+"I work as `Senior Consultant` and `AI Team Coordinator` at [IHCantabria](www.ihcantabria.com), where I lead applied research and development projects that combine coastal and estuarine engineering with data-driven technologies. My work focuses on numerical modelling, operational oceanographic systems, oil spill forecasting, and the deveolpment of scientific programs and tools to support sustainable and resilient marine and coastal environments."
 
 
 
